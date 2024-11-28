@@ -8,7 +8,7 @@ I’m a passionate Front-End Developer with a focus on delivering high-performan
 
 👨‍💻 **Skills & Expertise**
 
-- **Proficient in:** React, JavaScript, TypeScript, HTML5, CSS3
+- **Proficient in:** React, JavaScript, HTML5, CSS3
 - **Front-End Optimization:** Crafting solutions that enhance user experiences and improve load times.
 - **Responsive Web Design:** Delivering pixel-perfect experiences across all devices.
 - ⚡ **Fun Fact:** I find my productivity and creativity soar with a cup of coffee in hand while coding!
@@ -17,8 +17,8 @@ I’m a passionate Front-End Developer with a focus on delivering high-performan
 
 🛠 **Tech Stack**
 
-- **Languages:** JavaScript | TypeScript | HTML5 | CSS3
-- **Frameworks & Libraries:** React | Tailwind CSS | Redux | Sass | Bootstrap
+- **Languages:** JavaScript | HTML5 | CSS3
+- **Frameworks & Libraries:** React | Tailwind CSS | Sass | Bootstrap
 - **Backend:** Firebase
 - **Tools:** Git | GitHub | Vite | VS Code | Figma
 
